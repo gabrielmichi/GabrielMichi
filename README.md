@@ -10,7 +10,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmichi/)](https://www.linkedin.com/in/gabrielmichi/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@gpmlinux)](https://medium.com/@gpmlinux)
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gpmlinux@gmail.com)](mailto:gpmlinux@gmail.com)
-[![Cclaim Badge](https://cdn.youracclaim.com/packs/media/src/images/acclaim-logo-white-d8c47c4f5317c718684181d03dd72fde.svg&link=mailto:gpmlinux@gmail.com)](mailto:gpmlinux@gmail.com
 
 
 ### Hi there 👋
