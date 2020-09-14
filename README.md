@@ -14,7 +14,7 @@
 
 ### Hi there 👋
 
-I'm Gabriel and I have more than 8 years of experience in the Technology area, today I'm Site Reliability Engineering.
+I'm Gabriel and I have more than 8 years of experience in the Technology, today I'm Site Reliability Engineering at Serasa Experian.
 I am enthusiastic about the Devops Culture and Cloud Computing, dedicating my studies in these areas and related tools.
 I have always been passionate about technology and innovation, with a slightly more general profile I had contact with the following tools:
 
