@@ -24,12 +24,8 @@ I have always been passionate about technology and innovation, with a slightly m
 📉 Database and Data Visualization: ElasticSearch, Kibana, Power BI, Redis, Oracle, SQL Server, PostgreSQL, DB2. <br />
 🖥️ Monitoring and servers: Linux, Zabbix, Control-M  <br />
 
+
 [![Shell Script Badge](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&link=https://github.com/gabrielmichi/ShellScript)](https://github.com/gabrielmichi/ShellScript)
-
-[![Python Script Badge](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white&link=
-https://github.com/gabrielmichi/Python)](
-https://github.com/gabrielmichi/Python)
-
 
 
 #### Certifications:
