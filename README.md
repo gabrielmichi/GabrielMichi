@@ -14,8 +14,8 @@
 
 ### Hi there 👋
 
-I'm Gabriel and I have more than 8 years of experience in the Technology, today I'm Site Reliability Engineering at Serasa Experian.
-I am enthusiastic about the Devops Culture and Cloud Computing, dedicating my studies in these areas and related tools.
+I'm Gabriel and I have more than 8 years of experience in the Technology, today I'm Site Reliability Engineering at Serasa Experian. <br />
+I am enthusiastic about the Devops Culture and Cloud Computing, dedicating my studies in these areas and related tools. <br />
 I have always been passionate about technology and innovation, with a slightly more general profile I had contact with the following tools:
 
 ☁️ Cloud Computing: AWS (Lambda, EC2, RDS, S3, API Gateway, IAM), GCP (Compute Engine, PUB / SUB), Azure DevOps. <br />
