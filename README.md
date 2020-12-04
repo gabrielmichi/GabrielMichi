@@ -11,8 +11,6 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@gpmlinux)](https://medium.com/@gpmlinux)
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gpmlinux@gmail.com)](mailto:gpmlinux@gmail.com)
 
-<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png" width="60%" height="60%" >
-
 ### Hi there 👋
 
 I'm Gabriel and I have more than 8 years of experience in Technology, today I'm Site Reliability Engineering at Serasa Experian. <br />
@@ -38,6 +36,9 @@ Linux Professional Institute - LPIC1
 CompTIA Linux +
 Suse Certified Linux Administration
 ```
+
+
+<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png" width="60%" height="60%" >
 
 <!--
 **gabrielmichi/GabrielMichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
