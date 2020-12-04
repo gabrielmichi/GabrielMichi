@@ -18,16 +18,15 @@ I'm Gabriel and I have more than 8 years of experience in Technology, today I'm 
 I am enthusiastic about the Devops Culture and Cloud Computing, dedicating my studies in these areas and related tools. <br />
 I have always been passionate about technology and innovation, with a slightly more general profile I had contact with the following tools:
 
-<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png" width="50%" height="60%" >
-
 ☁️ Cloud Computing: AWS (Lambda, EC2, RDS, S3, API Gateway, IAM), GCP (Compute Engine, PUB / SUB), Azure DevOps. <br />
 🖤 Devops: Git, GitHub, Ansible, Terraform, Docker, Docker SWARM. <br />
 🐍 Programming / Process Automation: Python, VB.NET - UIPath (RPA). <br />
+[![Shell Script Badge](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&link=https://github.com/gabrielmichi/ShellScript)](https://github.com/gabrielmichi/ShellScript)
 📉 Database and Data Visualization: ElasticSearch, Kibana, Power BI, Redis, Oracle, SQL Server, PostgreSQL, DB2. <br />
 🖥️ Monitoring and servers: Linux, Zabbix, Control-M  <br />
 
 
-[![Shell Script Badge](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&link=https://github.com/gabrielmichi/ShellScript)](https://github.com/gabrielmichi/ShellScript)
+<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png" width="80%" height="60%" >
 
 
 #### Certifications:
