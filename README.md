@@ -18,7 +18,7 @@ I'm Gabriel and I have more than 8 years of experience in Technology, today I'm 
 I am enthusiastic about the Devops Culture and Cloud Computing, dedicating my studies in these areas and related tools. <br />
 I have always been passionate about technology and innovation, with a slightly more general profile I had contact with the following tools:
 
-<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png">
+<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png" width="50%" height="60%" >
 
 ☁️ Cloud Computing: AWS (Lambda, EC2, RDS, S3, API Gateway, IAM), GCP (Compute Engine, PUB / SUB), Azure DevOps. <br />
 🖤 Devops: Git, GitHub, Ansible, Terraform, Docker, Docker SWARM. <br />
