@@ -11,6 +11,7 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@gpmlinux)](https://medium.com/@gpmlinux)
 [![Gmail Badge](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:gpmlinux@gmail.com)](mailto:gpmlinux@gmail.com)
 
+<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png" width="60%" height="60%" >
 
 ### Hi there 👋
 
@@ -20,13 +21,11 @@ I have always been passionate about technology and innovation, with a slightly m
 
 ☁️ Cloud Computing: AWS (Lambda, EC2, RDS, S3, API Gateway, IAM), GCP (Compute Engine, PUB / SUB), Azure DevOps. <br />
 🖤 Devops: Git, GitHub, Ansible, Terraform, Docker, Docker SWARM. <br />
-🐍 Programming / Process Automation: Python, VB.NET - UIPath (RPA). <br />
-[![Shell Script Badge](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&link=https://github.com/gabrielmichi/ShellScript)](https://github.com/gabrielmichi/ShellScript)
+🐍 Programming / Process Automation: Python, VB.NET - UIPath (RPA).
+[![Shell Script Badge](https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white&link=https://github.com/gabrielmichi/ShellScript)](https://github.com/gabrielmichi/ShellScript) <br />
 📉 Database and Data Visualization: ElasticSearch, Kibana, Power BI, Redis, Oracle, SQL Server, PostgreSQL, DB2. <br />
 🖥️ Monitoring and servers: Linux, Zabbix, Control-M  <br />
 
-
-<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png" width="80%" height="60%" >
 
 
 #### Certifications:
