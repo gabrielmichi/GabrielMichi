@@ -37,10 +37,8 @@ CompTIA Linux +
 Suse Certified Linux Administration
 ```
 
-
-<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png" width="60%" height="60%" >
-
 <!--
+<img src="https://github.com/gabrielmichi/GabrielMichi/blob/master/devops.png" width="60%" height="60%" >
 **gabrielmichi/GabrielMichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
